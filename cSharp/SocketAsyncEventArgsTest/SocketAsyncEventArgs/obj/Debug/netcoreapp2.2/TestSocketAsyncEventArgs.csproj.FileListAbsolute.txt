@@ -1,0 +1,11 @@
+E:\test\Csharp\SocketAsyncEventArgs\bin\Debug\netcoreapp2.2\TestSocketAsyncEventArgs.deps.json
+E:\test\Csharp\SocketAsyncEventArgs\bin\Debug\netcoreapp2.2\TestSocketAsyncEventArgs.runtimeconfig.json
+E:\test\Csharp\SocketAsyncEventArgs\bin\Debug\netcoreapp2.2\TestSocketAsyncEventArgs.runtimeconfig.dev.json
+E:\test\Csharp\SocketAsyncEventArgs\bin\Debug\netcoreapp2.2\TestSocketAsyncEventArgs.dll
+E:\test\Csharp\SocketAsyncEventArgs\bin\Debug\netcoreapp2.2\TestSocketAsyncEventArgs.pdb
+E:\test\Csharp\SocketAsyncEventArgs\obj\Debug\netcoreapp2.2\TestSocketAsyncEventArgs.csprojAssemblyReference.cache
+E:\test\Csharp\SocketAsyncEventArgs\obj\Debug\netcoreapp2.2\TestSocketAsyncEventArgs.csproj.CoreCompileInputs.cache
+E:\test\Csharp\SocketAsyncEventArgs\obj\Debug\netcoreapp2.2\TestSocketAsyncEventArgs.AssemblyInfoInputs.cache
+E:\test\Csharp\SocketAsyncEventArgs\obj\Debug\netcoreapp2.2\TestSocketAsyncEventArgs.AssemblyInfo.cs
+E:\test\Csharp\SocketAsyncEventArgs\obj\Debug\netcoreapp2.2\TestSocketAsyncEventArgs.dll
+E:\test\Csharp\SocketAsyncEventArgs\obj\Debug\netcoreapp2.2\TestSocketAsyncEventArgs.pdb

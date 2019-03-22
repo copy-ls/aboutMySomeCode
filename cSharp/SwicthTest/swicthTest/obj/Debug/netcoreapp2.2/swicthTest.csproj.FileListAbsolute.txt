@@ -1,0 +1,11 @@
+E:\test\Csharp\swicthTest\bin\Debug\netcoreapp2.2\swicthTest.deps.json
+E:\test\Csharp\swicthTest\bin\Debug\netcoreapp2.2\swicthTest.runtimeconfig.json
+E:\test\Csharp\swicthTest\bin\Debug\netcoreapp2.2\swicthTest.runtimeconfig.dev.json
+E:\test\Csharp\swicthTest\bin\Debug\netcoreapp2.2\swicthTest.dll
+E:\test\Csharp\swicthTest\bin\Debug\netcoreapp2.2\swicthTest.pdb
+E:\test\Csharp\swicthTest\obj\Debug\netcoreapp2.2\swicthTest.csprojAssemblyReference.cache
+E:\test\Csharp\swicthTest\obj\Debug\netcoreapp2.2\swicthTest.csproj.CoreCompileInputs.cache
+E:\test\Csharp\swicthTest\obj\Debug\netcoreapp2.2\swicthTest.AssemblyInfoInputs.cache
+E:\test\Csharp\swicthTest\obj\Debug\netcoreapp2.2\swicthTest.AssemblyInfo.cs
+E:\test\Csharp\swicthTest\obj\Debug\netcoreapp2.2\swicthTest.dll
+E:\test\Csharp\swicthTest\obj\Debug\netcoreapp2.2\swicthTest.pdb
