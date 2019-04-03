@@ -10,8 +10,8 @@ class Program
 
         writeBuffer[0] = 1;
         writeBuffer[1] = 2;
+        stream.Seek(2, SeekOrigin.Begin);
         stream.Write(writeBuffer, 0, 2);
-        stream.Position = 0;
         stream.Write(writeBuffer, 1, 1);
         byte[] readBuffer = new byte[stream.Length];
         int count = stream.Read(readBuffer, 0, 1);
