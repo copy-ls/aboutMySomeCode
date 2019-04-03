@@ -9,3 +9,14 @@ E:\test\Csharp\SocketAsyncEventArgs\obj\Debug\netcoreapp2.2\TestSocketAsyncEvent
 E:\test\Csharp\SocketAsyncEventArgs\obj\Debug\netcoreapp2.2\TestSocketAsyncEventArgs.AssemblyInfo.cs
 E:\test\Csharp\SocketAsyncEventArgs\obj\Debug\netcoreapp2.2\TestSocketAsyncEventArgs.dll
 E:\test\Csharp\SocketAsyncEventArgs\obj\Debug\netcoreapp2.2\TestSocketAsyncEventArgs.pdb
+F:\myGit\aboutMySomeCode\cSharp\SocketAsyncEventArgsTest\SocketAsyncEventArgs\bin\Debug\netcoreapp2.2\TestSocketAsyncEventArgs.deps.json
+F:\myGit\aboutMySomeCode\cSharp\SocketAsyncEventArgsTest\SocketAsyncEventArgs\bin\Debug\netcoreapp2.2\TestSocketAsyncEventArgs.runtimeconfig.json
+F:\myGit\aboutMySomeCode\cSharp\SocketAsyncEventArgsTest\SocketAsyncEventArgs\bin\Debug\netcoreapp2.2\TestSocketAsyncEventArgs.runtimeconfig.dev.json
+F:\myGit\aboutMySomeCode\cSharp\SocketAsyncEventArgsTest\SocketAsyncEventArgs\bin\Debug\netcoreapp2.2\TestSocketAsyncEventArgs.dll
+F:\myGit\aboutMySomeCode\cSharp\SocketAsyncEventArgsTest\SocketAsyncEventArgs\bin\Debug\netcoreapp2.2\TestSocketAsyncEventArgs.pdb
+F:\myGit\aboutMySomeCode\cSharp\SocketAsyncEventArgsTest\SocketAsyncEventArgs\obj\Debug\netcoreapp2.2\TestSocketAsyncEventArgs.csprojAssemblyReference.cache
+F:\myGit\aboutMySomeCode\cSharp\SocketAsyncEventArgsTest\SocketAsyncEventArgs\obj\Debug\netcoreapp2.2\TestSocketAsyncEventArgs.csproj.CoreCompileInputs.cache
+F:\myGit\aboutMySomeCode\cSharp\SocketAsyncEventArgsTest\SocketAsyncEventArgs\obj\Debug\netcoreapp2.2\TestSocketAsyncEventArgs.AssemblyInfoInputs.cache
+F:\myGit\aboutMySomeCode\cSharp\SocketAsyncEventArgsTest\SocketAsyncEventArgs\obj\Debug\netcoreapp2.2\TestSocketAsyncEventArgs.AssemblyInfo.cs
+F:\myGit\aboutMySomeCode\cSharp\SocketAsyncEventArgsTest\SocketAsyncEventArgs\obj\Debug\netcoreapp2.2\TestSocketAsyncEventArgs.dll
+F:\myGit\aboutMySomeCode\cSharp\SocketAsyncEventArgsTest\SocketAsyncEventArgs\obj\Debug\netcoreapp2.2\TestSocketAsyncEventArgs.pdb

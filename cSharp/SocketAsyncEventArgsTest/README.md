@@ -1,3 +1,10 @@
+思路：
+	1. 初始化一个超大的buffer管理器，防止buffer内存碎片话和复用buffer
+	2. 
+		2.1	单个SocketAsyncEventArgs重复接收客户端Socket数据
+		2.2 初始化足够多的SocketAsyncEventArgs来处理Socket的Completed回调
+	3. 接收时Semaphore会增加，处理完成才会释放(不太明白有是什么用)
+	4. StartAccept接收下一个Socket？
 笔记：
 	1. 同步Socket链接时会挂起程序等待(链接,发送,接收)
 		1) 对应Connect,Send,Receive等方法

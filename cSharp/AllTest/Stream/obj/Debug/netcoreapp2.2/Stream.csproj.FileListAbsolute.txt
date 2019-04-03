@@ -1,0 +1,11 @@
+F:\myGit\aboutMySomeCode\cSharp\AllTest\Stream\bin\Debug\netcoreapp2.2\Stream.deps.json
+F:\myGit\aboutMySomeCode\cSharp\AllTest\Stream\bin\Debug\netcoreapp2.2\Stream.runtimeconfig.json
+F:\myGit\aboutMySomeCode\cSharp\AllTest\Stream\bin\Debug\netcoreapp2.2\Stream.runtimeconfig.dev.json
+F:\myGit\aboutMySomeCode\cSharp\AllTest\Stream\bin\Debug\netcoreapp2.2\Stream.dll
+F:\myGit\aboutMySomeCode\cSharp\AllTest\Stream\bin\Debug\netcoreapp2.2\Stream.pdb
+F:\myGit\aboutMySomeCode\cSharp\AllTest\Stream\obj\Debug\netcoreapp2.2\Stream.csprojAssemblyReference.cache
+F:\myGit\aboutMySomeCode\cSharp\AllTest\Stream\obj\Debug\netcoreapp2.2\Stream.csproj.CoreCompileInputs.cache
+F:\myGit\aboutMySomeCode\cSharp\AllTest\Stream\obj\Debug\netcoreapp2.2\Stream.AssemblyInfoInputs.cache
+F:\myGit\aboutMySomeCode\cSharp\AllTest\Stream\obj\Debug\netcoreapp2.2\Stream.AssemblyInfo.cs
+F:\myGit\aboutMySomeCode\cSharp\AllTest\Stream\obj\Debug\netcoreapp2.2\Stream.dll
+F:\myGit\aboutMySomeCode\cSharp\AllTest\Stream\obj\Debug\netcoreapp2.2\Stream.pdb
